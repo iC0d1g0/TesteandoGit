@@ -1,0 +1,19 @@
+/*
+Comentarios en CSSS
+*/
+body {
+    background-color: #f0f0f0; /* Color de fondo claro */
+    font-family: Arial, sans-serif; /* Fuente legible */
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #333333; /* Color de texto oscuro */
+    text-align: center; /* Centrar el texto */
+    margin-top: 20px;
+}
+p {
+    color: #666666; /* Color de texto gris */
+    line-height: 1.6; /* Espaciado entre líneas */
+    margin: 20px; /* Margen alrededor del párrafo */
+}
